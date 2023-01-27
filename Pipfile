@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+designer = "/Users/Carlo/.virtualenvs/calculadora-HLm_IH6a/Scripts/pyside6-designer.exe"
+          
+[packages]
+pyside6 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
