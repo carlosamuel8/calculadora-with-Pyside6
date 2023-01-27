@@ -1,0 +1,1 @@
+# calculadora-with-Pyside6
